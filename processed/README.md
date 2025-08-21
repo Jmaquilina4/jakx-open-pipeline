@@ -43,3 +43,13 @@ ALLJAK_pipeline_summary_ic50.csv
 Final statistics and reductions at each curation stage.
 
 Useful for tracking reproducibility.
+
+🔑 Key Notes
+
+All activities standardized to pIC50 (−log₁₀[IC50, M]) for comparability.
+
+Only IC50 data was retained (Ki/Kd/EC50 excluded for consistency).
+
+Data curated from ChEMBL vXX (update with your exact version).
+
+Filtering ensured removal of invalid SMILES, salts, inorganics, duplicates, and known assay artifacts.
